@@ -51,18 +51,11 @@ I believe *clean code + good design = powerful products*.
 
 ---
 
-### 📊 GitHub Stats  
-
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzadev&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzadev&layout=compact&theme=tokyonight)
-
----
-
 ### 🌍 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-awan-136266343/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://thehamza.dev/)  
+[![Email](https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.hello@thehamza.dev)
 
 ---
 
