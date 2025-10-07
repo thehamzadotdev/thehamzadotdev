@@ -55,7 +55,7 @@ I believe *clean code + good design = powerful products*.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-awan-136266343/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://thehamza.dev/)  
-[![Email](https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.hello@thehamza.dev)
+[![Email](https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@thehamza.dev)
 
 ---
 
