@@ -37,3 +37,9 @@ I push pixels & logic till they align.
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+
+### 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=hamzadev&color=blueviolet&style=for-the-badge)
+
+
