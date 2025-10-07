@@ -1,4 +1,4 @@
-👨‍💻 Yo, I'm **Hamza** — a self-taught **Full Stack Developer** crafting modern, scalable, and performance-driven web apps that actually *feel alive*.  
+# 👋 Hey there, I'm Hamza — Full Stack Developer crafting scalable web apps 🚀
 
 🧩 My core stack lives in the **Next.js / React** ecosystem — powered by **TypeScript**, styled with **TailwindCSS**, and backed by **Node.js + PostgreSQL** or **MongoDB**.  
 I’m obsessed with writing clean, reusable code and turning UI mockups into fully functional digital experiences.  
